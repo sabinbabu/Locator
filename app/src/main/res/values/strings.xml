@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Locator</string>
+
+    <string name="location_button">Find MyLocation</string>
+    <string name="map_button">Show on Map</string>
+    <string name="name_label">What is your first name</string>
+    <string name="lat_label">Latitude</string>
+    <string name="lon_label">Longitude</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
